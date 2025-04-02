@@ -1,0 +1,35 @@
+{
+  "entry\\src\\main\\ets\\widget\\pages\\WidgetCard.ets": [
+    "Column",
+    "Image",
+    "Text",
+    "ForEach",
+    "ListItem",
+    "Row",
+    "Divider",
+    "If"
+  ],
+  "entry\\src\\main\\ets\\widget\\view\\CardListComponent.ets": [
+    "Stack",
+    "Column",
+    "Row",
+    "Text",
+    "Image",
+    "List",
+    "If"
+  ],
+  "entry\\src\\main\\ets\\widget\\pages\\WidgetCardUpdate.ets": [
+    "Column",
+    "Text",
+    "Blank",
+    "Row",
+    "SymbolGlyph",
+    "If"
+  ],
+  "entry\\src\\main\\ets\\widget\\pages\\myCart.ets": [
+    "Stack",
+    "Text",
+    "Image",
+    "If"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"CommonInfo":{
+		"project.ide.version":"5.0.9.200",
+		"current.select.product":"default",
+		"current.select.buildMode":"",
+		"crossplatform.projectType":""
+	},
+	"BuildOptions":{
+		"SELECT_BUILD_PRODUCT":"default",
+		"BUNDLE_NAME":"com.example.cardinforefresh",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"E:\\Down\\CardInfoRefresh-master\\build\\outputs\\default"
+		},
+		"SELECT_BUILD_MODE":""
+	}
+}
